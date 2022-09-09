@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Victor Pinheiro</h1>
-<h3 align="center">I am a fullstack software developer and academic researcher in the field of software ecosystems.</h3>
+<h3 align="center">I am a fullstack software developer and academic researcher in the field of foftware engineering and software ecosystems.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pinheirovictor&label=Profile%20views&color=0e75b6&style=flat" alt="pinheirovictor" /> </p>
 
