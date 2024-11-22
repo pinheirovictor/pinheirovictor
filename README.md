@@ -5,15 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pinheirovictor" alt="pinheirovictor" /></a> </p>
 
-- 🌱 I’m currently learning **react, react native and node**
-
-- 👨‍💻 All of my projects are available at [https://github.com/pinheirovictor](https://github.com/pinheirovictor)
-
-- 💬 Ask me about **vue, java and spring boot**
-
-- 📫 How to reach me **victor.pinheiro.mr@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Q_UuuRZfQuhhBj0bv1BEZQPxveh8B2yB/view?usp=sharing](https://drive.google.com/file/d/1Q_UuuRZfQuhhBj0bv1BEZQPxveh8B2yB/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
