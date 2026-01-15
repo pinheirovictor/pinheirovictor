@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou Victor Pinheiro 👋</h1>
 
 <h3 align="center">
-Desenvolvedor Full Stack • Pesquisador em Engenharia de Software • Professor Universitário
+Desenvolvedor Full Stack • Pesquisador em Engenharia de Software • Professor
 </h3>
 
 <p align="center">
