@@ -15,19 +15,6 @@ Graduado em Sistemas de Informação pela UFC – Campus Quixadá (2021), mestre
 </p>
 
 ---
-
-## 👨‍💻 Sobre mim
-
-- 🎓 **Professor e Pesquisador** na área de Engenharia de Software  
-- 🔬 Principais interesses de pesquisa:
-  - Ecossistemas de Software
-  - Sistemas Distribuídos e Sistemas Autoadaptativos
-  - Internet das Coisas (IoT)
-  - Aprendizado de Máquina Aplicado
-- 🧠 Forte atuação em **desenvolvimento backend, frontend e mobile**
-- 🛠️ Entusiasta de **arquitetura limpa, escalabilidade e ensino de computação**
-
----
 ## 🧰 Linguagens e Ferramentas
 
 ### Linguagens de Programação
